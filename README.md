@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at @PalazzinaCreativa
+- 🔭 I’m currently working at @PalazzinaCreativa and studying for a Bachelor's Degree in Informatics at Ca' Foscari University of Venice.
