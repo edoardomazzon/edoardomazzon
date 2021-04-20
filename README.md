@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://camo.githubusercontent.com/a78d4be98e0895d9e177b8c346fa1d13e6117be298f0ae4e20436e05d90814e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b
-
 - 🔭 I’m currently working at @PalazzinaCreativa and studying for a Bachelor's Degree in Informatics at [Ca' Foscari University of Venice](https://www.unive.it).
 - 📫 How to reach me: [eduren98@gmail.com](mailto:eduren98@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
