@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
+
 - 🔭 I’m currently working at @PalazzinaCreativa and studying for a Bachelor's Degree in Informatics at [Ca' Foscari University of Venice](https://www.unive.it).
 - 📫 How to reach me: [eduren98@gmail.com](mailto:eduren98@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
