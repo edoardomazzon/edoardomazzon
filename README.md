@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at @PalazzinaCreativa and studying for a Bachelor's Degree in Informatics at Ca' Foscari University of Venice.
+- 🔭 I’m currently working at @PalazzinaCreativa and studying for a Bachelor's Degree in Informatics at [Ca' Foscari University of Venice].
+
+
+[Ca' Foscari University of Venice]: https://www.unive.it
