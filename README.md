@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Web Developer at [@PalazzinaCreativa](https://github.com/PalazzinaCreativa) and studying for a Bachelor's Degree in Informatics at [Ca' Foscari University of Venice](https://www.unive.it).
 - 📫 How to reach me: [eduren98@gmail.com](mailto:eduren98@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- PluriCerticated Google and Tracking Specialist
+- Multi-Certified Google and Tracking Specialist
