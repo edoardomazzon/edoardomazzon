@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Web Developer at [@PalazzinaCreativa](https://github.com/PalazzinaCreativa) and studying for a Bachelor's Degree in Informatics at [Ca' Foscari University of Venice](https://www.unive.it).
+- 🔭 I’m currently working as a Web Developer & Web Tracking Specialist at [@PalazzinaCreativa](https://github.com/PalazzinaCreativa) and studying for a Bachelor's Degree in Informatics at [Ca' Foscari University of Venice](https://www.unive.it).
+- ⚡ My Certifications:
+  - Google Analytics Certification
+  - Google Analytics Individual Qualification
+  - Google Analytics for Beginners
+  - Advanced Google Analytics
+  - Google Tag Manager Fundamentals
+  - Introduction to Data Studio
+  - Managing Google Workspace
+  - Google My Business
 - 📫 How to reach me: [eduren98@gmail.com](mailto:eduren98@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- Multi-Certified Google and Tracking Specialist
