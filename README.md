@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   - Google Analytics for Beginners
   - Advanced Google Analytics
   - Google Tag Manager Fundamentals
+  - Piwik PRO Tag Manager with Consent Manager + certification
   - Introduction to Data Studio
   - Managing Google Workspace
   - Google My Business
