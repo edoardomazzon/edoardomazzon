@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Web Developer & Web Tracking Specialist at [@PalazzinaCreativa](https://github.com/PalazzinaCreativa) and studying for a Bachelor's Degree in Informatics at [Ca' Foscari University of Venice](https://www.unive.it).
+- 🔭 I’m currently working as a Web Developer & Web Analytics & Data Specialist and studying for a Bachelor's Degree in Informatics at [Ca' Foscari University of Venice](https://www.unive.it).
 - ⚡ My Certifications:
   - Google Analytics Certification
   - Google Analytics Individual Qualification
